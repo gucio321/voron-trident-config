@@ -1,0 +1,29 @@
+{
+  "border_opacity": 123,
+  "border_radius_size": 7,
+  "border_width": 1,
+  "dark": {
+    "border": "#FF0000",
+    "card_bg": "#2B0000",
+    "danger": "#d94848",
+    "elevated_bg": "#261E1E",
+    "focus": "#FF0000",
+    "info": "#A75F79",
+    "overlay_bg": "#470000",
+    "primary": "#809C02",
+    "screen_bg": "#000000",
+    "secondary": "#FF3C3C",
+    "success": "#69c27e",
+    "tertiary": "#f19a0c",
+    "text": "#feffff",
+    "text_muted": "#956145",
+    "text_subtle": "#4A1E1E",
+    "warning": "#f19a0c"
+  },
+  "handle_color": "text",
+  "handle_style": "bar",
+  "name": "voronRed",
+  "shadow_intensity": 8,
+  "shadow_offset_y": 2,
+  "shadow_opa": 0
+}

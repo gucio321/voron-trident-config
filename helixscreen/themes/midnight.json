@@ -1,0 +1,29 @@
+{
+  "border_opacity": 40,
+  "border_radius_size": 4,
+  "border_width": 1,
+  "dark": {
+    "border": "#FF0000",
+    "card_bg": "#2B0000",
+    "danger": "#d94848",
+    "elevated_bg": "#1e1e26",
+    "focus": "#FF0000",
+    "info": "#6080a7",
+    "overlay_bg": "#470000",
+    "primary": "#5C1E1E",
+    "screen_bg": "#000000",
+    "secondary": "#A75F5F",
+    "success": "#69c27e",
+    "tertiary": "#f19a0c",
+    "text": "#feffff",
+    "text_muted": "#675A5A",
+    "text_subtle": "#3d4150",
+    "warning": "#f19a0c"
+  },
+  "handle_color": "text",
+  "handle_style": "bar",
+  "name": "Midnight",
+  "shadow_intensity": 0,
+  "shadow_offset_y": 2,
+  "shadow_opa": 0
+}
